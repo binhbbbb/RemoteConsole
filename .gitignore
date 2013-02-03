@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings/
+.gwt/
+gwt-unitCache/
+WebContent/WEB-INF/classes/
+WebContent/WEB-INF/deploy/
+WebContent/WEB-INF/lib/
+WebContent/VAADIN/widgetsets
+build/
+*.launch
